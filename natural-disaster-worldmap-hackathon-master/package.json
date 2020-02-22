@@ -26,8 +26,13 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-logo-nav.git"
     },
     "dependencies": {
-        "bootstrap": "4.0.0",
+<<<<<<< HEAD
+        "bootstrap": "4.3.1",
         "jquery": "3.3.1"
+=======
+        "bootstrap": "4.0.0",
+        "jquery": "3.4.0"
+>>>>>>> f632a3102e546f78d159a152637ca9ba92b87cb5
     },
     "devDependencies": {
         "browser-sync": "2.23.6",
